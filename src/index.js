@@ -6,7 +6,7 @@ import { createStore } from 'redux';
 import { Provider } from 'react-redux';
 import reducers from './redux/reducers';
 //REACT ROUTER
-import {BrowserRouter } from 'react-router-dom';
+import { BrowserRouter } from 'react-router-dom';
 //STYLE
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
